@@ -1,0 +1,157 @@
+
+@media(max-width: 375px) {
+ 
+.body {
+    max-width: 200;
+    max-height: 200;
+    display: flex;
+    padding: 10px;
+}    
+
+.caixa-maior{
+    max-width: 250px;
+    
+}
+.imagem{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.imagem2{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.hover{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.titulo{
+    font-size: 16px;
+}
+
+.subtitulo{
+    font-size: 10px;
+}
+
+.eth{
+    font-size: 12px;
+    
+}
+
+.tempo{
+    font-size: 12px;
+}
+
+.img2{
+    width: 15px;
+    height: 15px;
+}
+
+.img1{
+    width: 15px;
+    height: 15px;
+}
+
+
+.linha{
+    max-width: 200px;
+}
+
+
+.icone-perfil{
+    width: 30px;
+    height: 30px;
+  
+}
+
+.nome{
+    padding: 10px;
+    font-size: 10px;
+}
+
+.div3{
+    padding: 10px;
+    font-size: 10px;
+}
+}
+
+
+@media(max-width: 700px) {
+ 
+    .body {
+        max-width: 200;
+        max-height: 200;
+        display: flex;
+        padding: 10px;
+    }    
+    
+    .caixa-maior{
+        max-width: 250px;
+        
+    }
+    .imagem{
+        max-width: 200px;
+        max-height: 200px;
+    }
+    
+    .imagem2{
+        max-width: 200px;
+        max-height: 200px;
+    }
+    
+    .hover{
+        max-width: 200px;
+        max-height: 200px;
+    }
+    
+    .titulo{
+        font-size: 16px;
+    }
+    
+    .subtitulo{
+        font-size: 10px;
+    }
+    
+    .eth{
+        font-size: 12px;
+        
+    }
+    
+    .tempo{
+        font-size: 12px;
+    }
+    
+    .img2{
+        width: 15px;
+        height: 15px;
+    }
+    
+    .img1{
+        width: 15px;
+        height: 15px;
+    }
+    
+    
+    .linha{
+        max-width: 200px;
+    }
+    
+    
+    .icone-perfil{
+        width: 30px;
+        height: 30px;
+      
+    }
+    
+    .nome{
+        padding: 10px;
+        font-size: 10px;
+    }
+    
+    .div3{
+        padding: 10px;
+        font-size: 10px;
+    }
+    }
